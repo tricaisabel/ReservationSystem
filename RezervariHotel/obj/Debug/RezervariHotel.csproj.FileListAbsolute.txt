@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\bin\Debug\RezervariHotel.exe.config
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\bin\Debug\RezervariHotel.exe
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\bin\Debug\RezervariHotel.pdb
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.exe
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.pdb
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.Form1.resources
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.Form2.resources
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.Form3.resources
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.Form4.resources
+C:\Users\LENOVO\Desktop\PAW\RezervariHotel\RezervariHotel\obj\Debug\RezervariHotel.Form5.resources

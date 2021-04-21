@@ -1,0 +1,5 @@
+maria	101	miercuri, 21 aprilie 2021	joi, 22 aprilie 2021	False
+ana	102	sâmbătă, 24 aprilie 2021	joi, 29 aprilie 2021	True
+liviu	104	joi, 29 aprilie 2021	vineri, 30 aprilie 2021	True
+cristian	104	miercuri, 21 aprilie 2021	vineri, 30 aprilie 2021	True
+
